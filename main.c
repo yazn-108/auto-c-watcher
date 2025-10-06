@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main()
 {
   printf("Follow me on social media (Beni sosyal medyada takip et): ");
